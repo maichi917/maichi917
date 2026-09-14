@@ -34,15 +34,7 @@
   <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,tailwind,git,github,docker,vscode" />
 </div>
 
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maichi917/maichi917/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maichi917/maichi917/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/maichi917/maichi917/output/github-contribution-grid-snake.svg" />
-</picture>
-
+## 🗒️Articles
 <p align="center">
   <a href="https://qiita.com/maichi917">
     <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
