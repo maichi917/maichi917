@@ -36,10 +36,10 @@
 
 ## 🗒️Articles
 <p align="center">
-  <a href="https://qiita.com/maichi917">
-    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
-  </a>
   <a href="https://note.com/maichi917">
     <img src="https://img.shields.io/badge/note-FFFFFF?style=for-the-badge&logo=note&logoColor=black" alt="note" />
+  </a>
+  <a href="https://qiita.com/maichi917">
+    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" />
   </a>
 </p>
