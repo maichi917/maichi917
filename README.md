@@ -25,7 +25,8 @@
 自分が使ったアイテムの感想を溜めておくことで、良かったものをすぐに思い出せたり、
 あまり良くなかったものをまた買ってしまう、なんてことがなくなるアプリです。
 
-アプリURL : https://monolog-note.com
+**アプリURL：** https://monolog-note.com
+**GitHub URL：** https://github.com/maichi917/erabu-note
 
 使用技術 : Ruby / Ruby on Rails / PostgreSQL / Tailwind CSS / Devise / Docker / Render / neon
 
