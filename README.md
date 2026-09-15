@@ -1,8 +1,10 @@
 <h1 align="center">まい's GitHub</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AAB73&width=500&lines=Thanks+for+visiting+my+page!" />
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AAB73&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+page!)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
