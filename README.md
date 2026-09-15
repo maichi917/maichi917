@@ -26,9 +26,10 @@
 あまり良くなかったものをまた買ってしまう、なんてことがなくなるアプリです。
 
 **アプリURL：** https://monolog-note.com
+
 **GitHub URL：** https://github.com/maichi917/erabu-note
 
-使用技術 : Ruby / Ruby on Rails / PostgreSQL / Tailwind CSS / Devise / Docker / Render / neon
+使用技術 : Ruby / Rails / PostgreSQL（Neon） / Render / Docker / Tailwind CSS / Devise / GitHub Actions
 
 
 ## 🔧 Tech Stack
