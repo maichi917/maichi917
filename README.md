@@ -31,11 +31,29 @@
 
 使用技術 : Ruby / Rails / PostgreSQL（Neon） / Render / Docker / Tailwind CSS / Devise / GitHub Actions
 
+---
+
+### 今日なに着てく？
+
+![今日なに着てく？](https://kyo-nani-kiteku.onrender.com/ogp.jpg)
+
+今日の天気とおすすめの服装を確認できるアプリです。
+お友達登録すると、「今日なにちゃん」が毎朝7時にLINEで天気とおすすめの服装をお知らせしてくれます。
+ログインなしでも各地の天気を調べることができます。
+
+複数のAPIをつないで「人の代わりに自動で動く仕組み」を作ってみたくて開発しました。
+
+**アプリURL：** https://kyo-nani-kiteku.onrender.com
+
+**GitHub URL：** https://github.com/maichi917/kyo-nani-kiteku
+
+使用技術 : Ruby / Rails / PostgreSQL（Neon） / Render / Docker / Hotwire / Solid Queue / Gemini API / LINE Messaging API / GitHub Actions
+
 
 ## 🔧 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,tailwind,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,tailwind,git,github,githubactions,docker,vscode" />
 </div>
 
 ## 🗒️Articles
