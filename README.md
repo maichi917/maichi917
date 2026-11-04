@@ -24,12 +24,15 @@
 
 自分が使ったアイテムの感想を溜めておくことで、良かったものをすぐに思い出せたり、
 あまり良くなかったものをまた買ってしまう、なんてことがなくなるアプリです。
+感想をシェアして、好みが近い人の感想を参考にすることもできます。
+
+使ったもののどこが良かったかを忘れてしまうことがあり、感想を残して次の選択に役立てたいと思い、開発しました。
 
 **アプリURL：** https://monolog-note.com
 
 **GitHub URL：** https://github.com/maichi917/erabu-note
 
-使用技術 : Ruby / Rails / PostgreSQL（Neon） / Render / Docker / Tailwind CSS / Devise / GitHub Actions
+使用技術 : Ruby / Rails / PostgreSQL（Neon） / Render / Docker / Hotwire / Tailwind CSS / Devise / Cloudflare R2 / GitHub Actions
 
 ---
 
