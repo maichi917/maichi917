@@ -50,7 +50,7 @@
 
 **GitHub URL：** https://github.com/maichi917/kyo-nani-kiteku
 
-使用技術 : Ruby / Rails / PostgreSQL（Neon） / Render / Docker / Hotwire / Solid Queue / Gemini API / LINE Messaging API / GitHub Actions
+使用技術 : Ruby / Rails / PostgreSQL（Supabase） / Render / Docker / Hotwire / Solid Queue / Gemini API / LINE Messaging API / GitHub Actions
 
 
 ## 🔧 Tech Stack
